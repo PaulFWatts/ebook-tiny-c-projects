@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	if( argc<2)
-		puts("Hello, Welome to Ubuntu");
+		puts("Hello, you handsome beast!");
 	else
 		printf("Hello, %s!\n",argv[1]);
 
